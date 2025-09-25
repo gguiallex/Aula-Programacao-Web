@@ -5,9 +5,9 @@ O desenvolvimento está sendo feito de forma incremental, com cada etapa represe
 
 ## Organização das Pastas
 
-- **aula-django-02**: Primeira etapa da atividade.
-- **aula-django-03**: Segunda etapa, contendo tudo da etapa 2 **mais** os novos requisitos pedidos.
-- **aula-django-04**: Terceira etapa, contendo tudo da etapa 3 **mais** as novas funcionalidades solicitadas, e assim por diante.
+- **aula-django-01**: Primeira etapa da atividade.
+- **aula-django-02**: Segunda etapa, contendo tudo da etapa 1 **mais** os novos requisitos pedidos.
+- **aula-django-03**: Terceira etapa, contendo tudo da etapa 2 **mais** as novas funcionalidades solicitadas, e assim por diante.
 
 Cada pasta contém o código correspondente à etapa, facilitando o acompanhamento da evolução do projeto.
 
